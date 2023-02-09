@@ -18,7 +18,7 @@
 
 ### 基础作业
 
-- 其中`balloon/work2_main_balloon.ipynb`记录了该实验从`mmdetection1.0（master分支`环境配置到`模型训练`以及`数据后处理（灰度动图）`的整个过程
+- 其中`balloon/work2_main_balloon.ipynb`记录了该实验从`mmdetection1.0（master分支)`环境配置到`模型训练`以及`数据后处理（灰度动图）`的整个过程
 - 推荐在 colab 平台上进行实验
 - log 和 config 在`balloon`目录下
 - 模型文件：
