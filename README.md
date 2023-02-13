@@ -23,3 +23,12 @@
 - log 和 config 在`balloon`目录下
 - 模型文件：
   链接:
+
+## mmsegmentation
+
+### 基础作业
+
+- 其中`glomeruli/work3_main_glomeruli.ipynb`记录了该实验从环境配置到`模型训练`以及`数据后处理（预测显示）`的整个过程
+- log 和 config 在`glomeruli`目录下
+- 模型文件：
+  链接:
